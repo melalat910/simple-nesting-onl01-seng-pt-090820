@@ -73,18 +73,17 @@ end
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
-        },
+        }
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
-        },
+        }
         :dennis_ritchie => {
           :known_for => "Unix",
           :languages => ["C"]
         }
-     }
-
-
+			}
+ end
 end
 
 def changing_alan
@@ -125,5 +124,5 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-
+ end
 end
