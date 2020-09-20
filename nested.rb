@@ -63,7 +63,6 @@ programmer_hash:yukihiro_matsumoto => {
 	:known_for => "Ruby",
 	:languages => ["LISP", "C"]
 
-	puts programmer_hash
  }
 end
 
@@ -81,7 +80,7 @@ end
           :known_for => "Unix",
           :languages => ["C"]
         }
- end
+    }
 end
 
 def changing_alan
